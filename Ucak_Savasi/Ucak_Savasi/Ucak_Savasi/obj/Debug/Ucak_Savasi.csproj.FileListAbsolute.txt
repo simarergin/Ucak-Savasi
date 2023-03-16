@@ -1,0 +1,20 @@
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Ucak_Savasi\Ucak_Savasi\bin\Debug\Ucak_Savasi.exe.config
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Ucak_Savasi\Ucak_Savasi\bin\Debug\Ucak_Savasi.exe
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Ucak_Savasi\Ucak_Savasi\bin\Debug\Ucak_Savasi.pdb
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.Form1.resources
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.Properties.Resources.resources
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.GenerateResource.Cache
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.exe
+C:\Users\Bilal\Desktop\Yazılı Soruları Çözümleri\Ders-1\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.pdb
+C:\Users\erpstajyer\Desktop\Ucak_Savasi\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.exe
+C:\Users\erpstajyer\Desktop\Ucak_Savasi\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.pdb
+C:\Users\erpstajyer\Desktop\Ucak_Savasi\Ucak_Savasi\Ucak_Savasi\bin\Debug\Ucak_Savasi.exe.config
+C:\Users\erpstajyer\Desktop\Ucak_Savasi\Ucak_Savasi\Ucak_Savasi\bin\Debug\Ucak_Savasi.exe
+C:\Users\erpstajyer\Desktop\Ucak_Savasi\Ucak_Savasi\Ucak_Savasi\bin\Debug\Ucak_Savasi.pdb
+C:\Users\erpstajyer\Desktop\Ucak_Savasi\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.AssemblyReference.cache
+C:\Users\erpstajyer\Desktop\Ucak_Savasi\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\erpstajyer\Desktop\Ucak_Savasi\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.Form1.resources
+C:\Users\erpstajyer\Desktop\Ucak_Savasi\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.Properties.Resources.resources
+C:\Users\erpstajyer\Desktop\Ucak_Savasi\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.GenerateResource.cache
+C:\Users\erpstajyer\Desktop\Ucak_Savasi\Ucak_Savasi\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.CoreCompileInputs.cache
